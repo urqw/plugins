@@ -1,21 +1,16 @@
-This project is documented and conducted in Russian
-due to its focus on a Russian-speaking audience.
+# UrqW Plugins
 
-<div lang="ru">
+Common repository of plugins for [UrqW](https://github.com/urqw/UrqW).
 
-# Плагины для UrqW
-
-Общий репозиторий плагинов для [UrqW](https://github.com/urqw/UrqW).
-
-Список плагинов:
+List of plugins:
 
 * [Disable free saves](https://github.com/urqw/disable_free_saves)
 * [Feedback for actions](https://github.com/urqw/feedback_for_actions)
 * [Shuffle buttons](https://github.com/urqw/shuffle_buttons)
 
-Все плагины также добавлены как подмодули Git.
+All plugins are also added as Git submodules.
 
-Клонируйте этот репозиторий с подмодулями и обновите подмодули:
+Clone this repository with the submodules and update the submodules:
 
 ```shell
 git clone --recurse-submodules https://github.com/urqw/plugins.git
@@ -23,7 +18,4 @@ cd plugins
 git submodule update --remote
 ```
 
-Будьте осторожны: не все плагины UrqW могут быть легко скомбинированы
-посредством копирования их кода в один файл.
-
-</div>
+Be careful, though: not all UrqW plugins can be easily combined.
