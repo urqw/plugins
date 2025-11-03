@@ -1,24 +1,9 @@
-[submodule "activate_buttons_by_numeric_keys"]
-	path = activate_buttons_by_numeric_keys
-	url = https://github.com/urqw/activate_buttons_by_numeric_keys.git
-[submodule "customize_page"]
-	path = customize_page
-	url = https://github.com/urqw/customize_page.git
-[submodule "drop_down_links"]
-	path = drop_down_links
-	url = https://github.com/urqw/drop_down_links.git
 [submodule "disable_free_saves"]
 	path = disable_free_saves
 	url = https://github.com/urqw/disable_free_saves.git
 [submodule "feedback_for_actions"]
 	path = feedback_for_actions
 	url = https://github.com/urqw/feedback_for_actions.git
-[submodule "js_injection"]
-	path = js_injection
-	url = https://github.com/urqw/js_injection.git
-[submodule "set_game_language"]
-	path = set_game_language
-	url = https://github.com/urqw/set_game_language.git
 [submodule "shuffle_buttons"]
 	path = shuffle_buttons
 	url = https://github.com/urqw/shuffle_buttons.git
