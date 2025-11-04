@@ -7,3 +7,6 @@
 [submodule "shuffle_buttons"]
 	path = shuffle_buttons
 	url = https://github.com/urqw/shuffle_buttons.git
+[submodule "typography"]
+	path = typography
+	url = https://github.com/urqw/typography.git

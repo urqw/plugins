@@ -7,6 +7,7 @@ List of plugins:
 * [Disable free saves](https://github.com/urqw/disable_free_saves)
 * [Feedback for actions](https://github.com/urqw/feedback_for_actions)
 * [Shuffle buttons](https://github.com/urqw/shuffle_buttons)
+* [Typography](https://github.com/urqw/typography)
 
 All plugins are also added as Git submodules.
 
