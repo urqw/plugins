@@ -4,9 +4,10 @@ Common repository of plugins for [UrqW](https://github.com/urqw/UrqW).
 
 List of plugins:
 
-* [Disable free saves](https://github.com/urqw/disable_free_saves)
-* [Feedback for actions](https://github.com/urqw/feedback_for_actions)
-* [Shuffle buttons](https://github.com/urqw/shuffle_buttons)
+* [Disable Free Saves](https://github.com/urqw/disable_free_saves)
+* [Feedback for Actions](https://github.com/urqw/feedback_for_actions)
+* [Multiplugin](https://github.com/urqw/multiplugin)
+* [Shuffle Buttons](https://github.com/urqw/shuffle_buttons)
 * [Typography](https://github.com/urqw/typography)
 
 All plugins are also added as Git submodules.

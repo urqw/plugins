@@ -10,3 +10,6 @@
 [submodule "typography"]
 	path = typography
 	url = https://github.com/urqw/typography.git
+[submodule "multiplugin"]
+	path = multiplugin
+	url = https://github.com/urqw/multiplugin.git
